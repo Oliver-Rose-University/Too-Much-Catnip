@@ -9,6 +9,10 @@ body {
     color: white;
 }
 
+.green-bg{
+    background-color: green;
+}
+
 #first-div {
 background-color: red;
 }
