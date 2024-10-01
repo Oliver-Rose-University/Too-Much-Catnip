@@ -1,4 +1,6 @@
-*{
+
+
+{
     margin: 0;
     padding: 0;
 /* womp womp, font no work */
@@ -17,3 +19,11 @@ body {
 #first-div {
 background-color: red;
 }
+
+h1 {
+    font-size: 40px;
+  }
+
+  body {
+    text-align: center;
+  }
